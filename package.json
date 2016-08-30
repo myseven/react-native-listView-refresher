@@ -1,0 +1,29 @@
+{
+  "name": "react-native-listview-refresher",
+  "version": "1.0.0",
+  "description": "A pull down to refresh and pull up to load more list view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myseven/react-native-listView-refresher.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "listview",
+    "react-native",
+    "ios",
+    "refresh",
+    "pulldown",
+    "pullup"
+  ],
+  "author": "Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myseven/react-native-listView-refresher/issues"
+  },
+  "homepage": "https://github.com/myseven/react-native-listView-refresher#readme"
+}
