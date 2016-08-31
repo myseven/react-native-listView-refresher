@@ -1,6 +1,6 @@
 {
   "name": "react-native-listview-refresher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A pull down to refresh and pull up to load more list view",
   "main": "index.js",
   "scripts": {
