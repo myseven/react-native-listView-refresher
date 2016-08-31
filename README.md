@@ -4,7 +4,7 @@ A pull down to refresh and pull up to load more list view.
 > **Important**: Thanks [Farid Safi](https://github.com/FaridSafi) 's Library [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview). Because it changed to RefreshControl when update to version 0.0.3, so I changed the source code for appply my use condition.
 > 
 
-**Be Careful, this library is Only for iOS plateform**
+**Be Careful, this library is Only for iOS platform**
 
 ScreenShot:
 
