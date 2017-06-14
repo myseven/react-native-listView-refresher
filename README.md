@@ -20,7 +20,7 @@ ScreenShot:
 - We can use `onFetching` function to fetch data and notify the library finish load then pass to the request page data.
 
 
-##Usage
+## Usage
 
 
 You can using npm to install component:
@@ -72,7 +72,7 @@ class Cell extends Component {
 
 ```
 
-##Props
+## Props
 
 You can use this like list view component, any props will be pass to inner list view.
 
